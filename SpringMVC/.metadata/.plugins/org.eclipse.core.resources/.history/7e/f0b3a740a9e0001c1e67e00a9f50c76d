@@ -1,0 +1,6 @@
+
+  <modelVersion>4.0.0</modelVersion>
+  <groupId>com.ivs</groupId>
+  <artifactId>DemoSpringMVC</artifactId>
+  <version>1.0</version>
+  <packaging>war</packaging>

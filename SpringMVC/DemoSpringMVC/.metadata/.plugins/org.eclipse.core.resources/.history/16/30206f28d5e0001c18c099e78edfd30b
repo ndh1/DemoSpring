@@ -1,0 +1,5 @@
+package demoSpringMVC.Controller;
+
+public class HomeController {
+
+}
